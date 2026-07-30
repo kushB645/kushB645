@@ -14,14 +14,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kushB645&layout=compact&theme=tokyonight)
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=kushB645&show_icons=true&theme=tokyonight)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kushB645&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kushB645&layout=compact&theme=tokyonight)
-
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kushB645&theme=github-dark)]
 
