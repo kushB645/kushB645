@@ -6,11 +6,13 @@
 - Learning MERN Stack
 - Looking for Software Engineer roles
 
-## 🛠 Tech Stack
+## 📊 GitHub Stats
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kushB645&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kushB645&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kushB645&layout=compact&theme=tokyonight)
 
 ## 📊 GitHub Stats
 
