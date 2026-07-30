@@ -41,8 +41,6 @@ Frontend Developer • React.js • JavaScript • MERN Stack
 
 ## 📊 GitHub Stats
 
-> **Note:** GitHub Stats may occasionally be unavailable due to the public deployment being paused.
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=kushB645&theme=tokyonight)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kushB645&theme=github-dark)
