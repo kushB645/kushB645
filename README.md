@@ -37,8 +37,6 @@ Frontend Developer • React.js • JavaScript • MERN Stack
 
 ---
 
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kushB645&theme=tokyonight)
